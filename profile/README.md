@@ -128,7 +128,7 @@ Expect these:
 ## FAQs
 
 **Can I use Instagram scraper APIs without login?**  
-Yes, top tools like HikerAPI and ScrapFly require no login and bypass authentication walls.
+Yes, top tools like [HikerAPI](http://github.com/hikerapi) and ScrapFly require no login and bypass authentication walls.
 
 **Are scraper APIs legal to use?**  
 Depends on local laws and usage. Stick to public data and TOS-friendly use cases.
